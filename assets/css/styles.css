@@ -10,3 +10,9 @@ body {
 h2 {
     color: orangered;
 }
+p {
+    font-style: oblique;
+}
+.text-center {
+    text-align: center;
+}
