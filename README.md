@@ -21,3 +21,35 @@ The Coding Club website is a landing page for parents and children looking for a
 
 -   The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
 -   Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
+
+# Heading
+
+## Heading 2
+
+-   list
+-   list 2
+-   list 3
+
+1. one
+2. two
+3. three
+
+[link https://www.apple.com]
+
+**Bold**
+
+_italic_
+
+~underline~
+
+## Markdown practice
+
+1 | 2 | 3
+
+text text
+
+| Building      | a table       | with markdown |
+| ------------- | ------------- | ------------- |
+| _Italic text_ | **bold text** | inline code   |
+| 42            | 400           | 97            |
+| hans          | was           | here          |
